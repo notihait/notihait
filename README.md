@@ -1,7 +1,7 @@
 # Hi, I'm Maria
 
-💻 Software Developer  
-⚙️ Backend / Telegram Bots / Automation  
+Software Developer  
+Backend / Telegram Bots / Automation  
 
 ---
 
