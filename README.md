@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Maria
+# Hi, I'm Maria
 
 💻 Software Developer  
 ⚙️ Backend / Telegram Bots / Automation  
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I specialize in backend development, Telegram bot systems, and automation tools.
 
@@ -13,9 +13,9 @@ I value clean architecture, readable code, and structured development processes.
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🧩 CRM / Telegram Integrations — *YourSale*
+### CRM / Telegram Integrations — *YourSale*
 **July 2023 — January 2025**
 
 Worked on a CRM product with Telegram integration and real-time systems.
@@ -29,7 +29,7 @@ Worked on a CRM product with Telegram integration and real-time systems.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Radio-electronic equipment and systems technologies**  
 (Технології радіоелектронних засобів та систем)
@@ -38,7 +38,7 @@ Worked on a CRM product with Telegram integration and real-time systems.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Ruby / Ruby on Rails  
 - Go (Gin)  
@@ -54,13 +54,13 @@ Worked on a CRM product with Telegram integration and real-time systems.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: **nottriwi@gmail.com**  
 - Telegram: **@tagmmsk**
 
 ---
 
-## 🎯 Interests
+## Interests
 
 Music • Reading • Photography • Technology systems
