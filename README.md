@@ -58,9 +58,3 @@ Worked on a CRM product with Telegram integration and real-time systems.
 
 - Email: **nottriwi@gmail.com**  
 - Telegram: **@tagmmsk**
-
----
-
-## Interests
-
-Music • Reading • Photography • Technology systems
